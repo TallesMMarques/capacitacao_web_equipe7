@@ -5,9 +5,10 @@
 }
 
 .title {
+  font-family: Arial, Helvetica, sans-serif;
   text-align: center;
   font-size: 1.4em;
-  color: #25283d;
+  color: white;
 }
 
 body {
@@ -30,7 +31,7 @@ form {
   border-radius: 6px;
   padding: 20px;
   padding-top: 30px;
-  width: 300px;
+  width: 500px;
   margin: 50px auto;
 }
 
@@ -44,7 +45,7 @@ input {
 }
 
 .btn {
-  width: 100%;
+  width: 45%;
   padding: 20px;
   border-radius: 6px;
   border: 0;
