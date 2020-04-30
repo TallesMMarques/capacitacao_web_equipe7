@@ -45,7 +45,7 @@ input {
 }
 
 .btn {
-  width: 45%;
+  width: 49%;
   padding: 20px;
   border-radius: 6px;
   border: 0;
@@ -58,4 +58,7 @@ input {
 .btn:hover{
   background: #edbd15;
   box-shadow: 0 0 10px 0 rgba(0,0,0,0.24), 0 0 20px 0 rgba(0,0,0,0.19);
+}
+.btn:active{
+  background: #a88812;
 }
