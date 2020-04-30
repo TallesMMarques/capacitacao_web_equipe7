@@ -4,10 +4,11 @@
   box-sizing: border-box;
 }
 
-.title {
+#ptitle {
   text-align: center;
   font-size: 1.4em;
-  color: #25283d;
+  color: #fff;
+  margin-top: 25px;
 }
 
 body {
